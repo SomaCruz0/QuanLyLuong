@@ -1,0 +1,11 @@
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe.config
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.pdb
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.AssemblyReference.cache
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.Properties.Resources.resources
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.GenerateResource.cache
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.CoreCompileInputs.cache
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.exe
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.pdb
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.frm_Main.resources
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.frm_DangNhap.resources
