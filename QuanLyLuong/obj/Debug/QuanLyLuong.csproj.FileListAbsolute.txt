@@ -9,3 +9,5 @@ D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.exe
 D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.pdb
 D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.frm_Main.resources
 D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.frm_DangNhap.resources
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.frm_ChamCong.resources
+D:\study\CongCuVaPPQLPhanMem\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.ResolveComReference.cache
