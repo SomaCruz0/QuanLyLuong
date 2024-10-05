@@ -17,6 +17,10 @@ namespace QuanLyLuong
             InitializeComponent();
         }
 
-       
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+
+            lbl_NgayGio.Text = DateTime.Now.ToString();
+        }
     }
 }
