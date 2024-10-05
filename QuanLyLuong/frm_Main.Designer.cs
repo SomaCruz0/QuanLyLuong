@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_Main));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.hệThốngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -77,6 +78,7 @@
             this.toolStripProgressBar1 = new System.Windows.Forms.ToolStripProgressBar();
             this.toolStripStatusLabel5 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -115,19 +117,19 @@
             this.đăngNhậpToolStripMenuItem.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.đăngNhậpToolStripMenuItem.Image = global::QuanLyLuong.Properties.Resources.icons8_key_48;
             this.đăngNhậpToolStripMenuItem.Name = "đăngNhậpToolStripMenuItem";
-            this.đăngNhậpToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.đăngNhậpToolStripMenuItem.Size = new System.Drawing.Size(165, 26);
             this.đăngNhậpToolStripMenuItem.Text = "Đăng nhập";
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(221, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(162, 6);
             // 
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.Image = global::QuanLyLuong.Properties.Resources.icons8_exit_50;
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
-            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(165, 26);
             this.thoátToolStripMenuItem.Text = "Thoát";
             // 
             // chấmCôngToolStripMenuItem
@@ -152,19 +154,19 @@
             // 
             this.quảnLýLươngToolStripMenuItem.Image = global::QuanLyLuong.Properties.Resources.icons8_dollar_50;
             this.quảnLýLươngToolStripMenuItem.Name = "quảnLýLươngToolStripMenuItem";
-            this.quảnLýLươngToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.quảnLýLươngToolStripMenuItem.Size = new System.Drawing.Size(185, 26);
             this.quảnLýLươngToolStripMenuItem.Text = "Quản lý lương";
             // 
             // toolStripSeparator4
             // 
             this.toolStripSeparator4.Name = "toolStripSeparator4";
-            this.toolStripSeparator4.Size = new System.Drawing.Size(221, 6);
+            this.toolStripSeparator4.Size = new System.Drawing.Size(182, 6);
             // 
             // tínhLươngToolStripMenuItem
             // 
             this.tínhLươngToolStripMenuItem.Image = global::QuanLyLuong.Properties.Resources.icons8_calculator_48;
             this.tínhLươngToolStripMenuItem.Name = "tínhLươngToolStripMenuItem";
-            this.tínhLươngToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.tínhLươngToolStripMenuItem.Size = new System.Drawing.Size(185, 26);
             this.tínhLươngToolStripMenuItem.Text = "Tính lương";
             // 
             // nhânSựToolStripMenuItem
@@ -251,14 +253,14 @@
             // 
             this.quảnLýTàiKhoảnToolStripMenuItem.Image = global::QuanLyLuong.Properties.Resources.icons8_account_50;
             this.quảnLýTàiKhoảnToolStripMenuItem.Name = "quảnLýTàiKhoảnToolStripMenuItem";
-            this.quảnLýTàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.quảnLýTàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
             this.quảnLýTàiKhoảnToolStripMenuItem.Text = "Quản lý tài khoản";
             // 
             // quảnLýQuyềnToolStripMenuItem
             // 
             this.quảnLýQuyềnToolStripMenuItem.Image = global::QuanLyLuong.Properties.Resources.icons8_add_user_48;
             this.quảnLýQuyềnToolStripMenuItem.Name = "quảnLýQuyềnToolStripMenuItem";
-            this.quảnLýQuyềnToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.quảnLýQuyềnToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
             this.quảnLýQuyềnToolStripMenuItem.Text = "Quản lý quyền";
             // 
             // hướngDẫnToolStripMenuItem
@@ -327,14 +329,14 @@
             // 
             this.cơSởDữLiệuToolStripMenuItem.Image = global::QuanLyLuong.Properties.Resources.icons8_database_48;
             this.cơSởDữLiệuToolStripMenuItem.Name = "cơSởDữLiệuToolStripMenuItem";
-            this.cơSởDữLiệuToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.cơSởDữLiệuToolStripMenuItem.Size = new System.Drawing.Size(179, 26);
             this.cơSởDữLiệuToolStripMenuItem.Text = "Cơ sở dữ liệu";
             // 
             // backupToolStripMenuItem
             // 
             this.backupToolStripMenuItem.Image = global::QuanLyLuong.Properties.Resources.icons8_backup_50;
             this.backupToolStripMenuItem.Name = "backupToolStripMenuItem";
-            this.backupToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.backupToolStripMenuItem.Size = new System.Drawing.Size(179, 26);
             this.backupToolStripMenuItem.Text = "Backup";
             // 
             // statusStrip1
@@ -409,8 +411,8 @@
             // 
             this.lbl_NgayGio.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lbl_NgayGio.Name = "lbl_NgayGio";
-            this.lbl_NgayGio.Size = new System.Drawing.Size(119, 20);
-            this.lbl_NgayGio.Text = "Ngày: 24/9/2024";
+            this.lbl_NgayGio.Size = new System.Drawing.Size(42, 20);
+            this.lbl_NgayGio.Text = "Time";
             // 
             // toolStripStatusLabel6
             // 
@@ -457,6 +459,11 @@
             this.toolStrip1.Size = new System.Drawing.Size(1115, 25);
             this.toolStrip1.TabIndex = 2;
             this.toolStrip1.Text = "toolStrip1";
+            // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // frm_Main
             // 
@@ -531,6 +538,7 @@
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel2;
         private System.Windows.Forms.ToolStripProgressBar toolStripProgressBar1;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel5;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

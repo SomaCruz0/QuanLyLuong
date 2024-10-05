@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C366EE-9371-41C9-9E1A-BCBE29141A90}|QuanLyLuong\\QuanLyLuong.csproj|d:\\study\\congcuvappqlphanmem\\quanlyluong\\quanlyluong\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11C366EE-9371-41C9-9E1A-BCBE29141A90}|QuanLyLuong\\QuanLyLuong.csproj|solutionrelative:quanlyluong\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C366EE-9371-41C9-9E1A-BCBE29141A90}|QuanLyLuong\\QuanLyLuong.csproj|d:\\study\\congcuvappqlphanmem\\quanlyluong\\quanlyluong\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C366EE-9371-41C9-9E1A-BCBE29141A90}|QuanLyLuong\\QuanLyLuong.csproj|solutionrelative:quanlyluong\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C366EE-9371-41C9-9E1A-BCBE29141A90}|QuanLyLuong\\QuanLyLuong.csproj|d:\\study\\congcuvappqlphanmem\\quanlyluong\\quanlyluong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C366EE-9371-41C9-9E1A-BCBE29141A90}|QuanLyLuong\\QuanLyLuong.csproj|solutionrelative:quanlyluong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C366EE-9371-41C9-9E1A-BCBE29141A90}|QuanLyLuong\\QuanLyLuong.csproj|d:\\study\\congcuvappqlphanmem\\quanlyluong\\quanlyluong\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C366EE-9371-41C9-9E1A-BCBE29141A90}|QuanLyLuong\\QuanLyLuong.csproj|solutionrelative:quanlyluong\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\QuanLyLuong\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "QuanLyLuong\\DAL\\DataAccess.cs",
+              "ToolTip": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\QuanLyLuong\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "QuanLyLuong\\DAL\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:55:22.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\QuanLyLuong\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyLuong\\Program.cs",
+              "ToolTip": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\QuanLyLuong\\Program.cs",
+              "RelativeToolTip": "QuanLyLuong\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:53:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Main.cs [Design]",
+              "DocumentMoniker": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\QuanLyLuong\\frm_Main.cs",
+              "RelativeDocumentMoniker": "QuanLyLuong\\frm_Main.cs",
+              "ToolTip": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\QuanLyLuong\\frm_Main.cs [Design]*",
+              "RelativeToolTip": "QuanLyLuong\\frm_Main.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:52:52.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Main.cs",
+              "DocumentMoniker": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\QuanLyLuong\\frm_Main.cs",
+              "RelativeDocumentMoniker": "QuanLyLuong\\frm_Main.cs",
+              "ToolTip": "D:\\study\\CongCuVaPPQLPhanMem\\QuanLyLuong\\QuanLyLuong\\frm_Main.cs*",
+              "RelativeToolTip": "QuanLyLuong\\frm_Main.cs*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAlwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:51:52.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
